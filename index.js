@@ -8,6 +8,7 @@
 // @include      http://*.wikipedia.*/*
 // @exclude      http://*.wikipedia.org/wiki/*?oldformat=true
 // @exclude      https://*.wikipedia.org/wiki/*?oldformat=true
+// @downloadURL  https://raw.githubusercontent.com/iCross/Wiki2Wand/main/index.js
 // @grant        none
 // ==/UserScript==
 
